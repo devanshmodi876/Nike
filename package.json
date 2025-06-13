@@ -1,10 +1,9 @@
 {
-  "name": "nikecopy",
+  "name": "nike",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
-    "homepage": "https://devanshmodi876.github.io/Nike",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
